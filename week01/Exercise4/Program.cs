@@ -62,13 +62,7 @@ class Program
 
             Console.WriteLine($"The max is: {max}");
 
-            // else
-            // {
-            //     Console.WriteLine("Invalid input. Please enter a whole number.");
-            //     userInput = -1; // Ensure the loop continues if invalid input is given
-            // }
-        
-
+           
 
 
 
